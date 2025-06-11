@@ -24,9 +24,11 @@ h1{
     margin: 2px;
     flex: 1;
     min-width: 0;
+    font-size: 3.5vh;
 }
 .thingy{
     width: 200px;
+    font-size: 3.5vh;
 }
 
 .generator-btn1 {
@@ -44,4 +46,7 @@ h1{
 }
 .generator-btn2:hover{
     background-color: rgb(31, 198, 190);
+}
+h5{
+    font-size: 4vh;
 }
