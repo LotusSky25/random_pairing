@@ -1,0 +1,13 @@
+Mg2+(aq) magnesium ion || Mg(s) magnesium
+NO3-(aq) nitrate ion || NO2 (g) nitrogen dioxide
+O2 (g) oxygen || H2O2 (aq) hydrogen peroxide
+O2 (g) oxygen || O2- (aq) oxide ion
+MnO4-(aq) permanganate ion || Mn2+(aq) manganese(II) ion
+Ag+ (aq) silver ion || Ag(s) silver
+S (s) sulfur || H2S (g) hydrogen sulfide
+SO42-(aq) sulfate ion || HSO3-(aq) hydrogen sulfite ion
+SO42-(aq) sulfate ion || SO2(g) sulfur dioxide
+SO42-(aq) sulfate ion || SO32-(aq) sulfite ion
+S4O62- (aq) Tetrathiosulfate ion || S2O32- (aq) thiosulfate ion
+Ca2+ (aq) Calcium ion || Ca(s) Calcium
+Zn2+(aq) zinc ion || Zn (s) zinc

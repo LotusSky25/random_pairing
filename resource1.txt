@@ -1,0 +1,13 @@
+Br2 (aq) bromine || Br - (aq) bromide ion
+Cl2 (aq) chlorine || Cl- (aq) chloride ion
+CO2 (g) carbon dioxide || C (s) carbon
+Cr2O72- (aq) dichromate ion || Cr3+ (aq) chromium(III) ion
+Cu2+(aq) copper(II) ion || Cu(s) copper
+OCl- (aq) hypochlorite ion || Cl - (aq) chloride ion
+Fe2+(aq) Iron(II) ion || Fe(s) iron
+Fe3+ (aq) Iron(III) ion || Fe2+(aq) iron (II) ion
+H+(aq) hydrogen ion (dilute acid) || H2 (g) hydrogen gas
+H2O2 (aq) hydrogen peroxide || H2O(I) water
+NO3 - (conc) nitric acid (concentrated) || NO2 (g) nitrogen dioxide
+I2 (aq) iodine || I- (aq) iodide ion
+IO3-(aq) iodate ion || I2 (aq) iodine

@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+h1{
+    font-size: 8vh;
+}
+.container{
+    text-align: center;
+}
+.one, 
+.two {
+    display: flex;
+    justify-content: space-between;
+}
+.elm1,
+.elm2,
+.elm3,
+.elm4 {
+    margin: 2px;
+    flex: 1;
+    min-width: 0;
+}
+.thingy{
+    width: 200px;
+}
+
+.generator-btn1 {
+    margin: 10px;
+    background-color: greenyellow;
+    height: 30px;
+}
+.generator-btn1:hover{
+    background-color: rgb(0, 210, 0);
+}
+.generator-btn2 {
+    margin: 10px;
+    background-color: lightskyblue;
+    height: 30px;
+}
+.generator-btn2:hover{
+    background-color: rgb(31, 198, 190);
+}
