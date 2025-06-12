@@ -37,7 +37,7 @@ fetch('resource2.txt')
 
     function generateRandom(one, two, div1, div2){
     let first = one[Math.floor(Math.random()*one.length)];
-    let second = two[Math.floor(Math.random()*two.length)];
+    let second = two[one.indexOf(first)];
         console.log('Updating:', div1, div2, 'With:', first, second);
     div1.textContent = first;
     div2.textContent = second;  
